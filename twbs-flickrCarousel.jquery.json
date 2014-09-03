@@ -1,0 +1,31 @@
+{
+    "name": "twbs-flickrCarousel",
+    "version": "1.0.0",
+    "title": "Twitter Bootstrap Flickr Carousel",
+    "author": {
+        "name": "Joseph Guadagno",
+        "email": "jguadagno@hotmail.com",
+        "url": "http://www.josephguadagno.net"
+    },
+    "licenses": [
+        {
+        "type": "Apache 2.0",
+        "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        }
+    ],
+    "dependencies": {
+        "jquery": "> 1.10.2"
+    },
+    "description": "Twitter Bootstrap Flickr Carousel is a jQuery plugin that uses the power of the Twitter Bootstrap Carousel plugin to cycle through images on Flickr.",
+    "keywords": [
+        "bootstrap",
+        "twbs-pagination",
+        "twitter",
+        "flickr",
+        "carousel"
+    ],
+    "homepage": "https://github.com/jguadagno/twbs-flickrCarousel",
+    "demo": "http://jguadagno.github.io/twbs-flickrCarouse/",
+    "download": "https://github.com/jguadagno/twbs-flickrCarousel/zipball/master",
+    "bugs": "https://github.com/jguadagno/twbs-flcikrCarousel/issues"
+}
